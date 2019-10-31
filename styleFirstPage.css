@@ -18,8 +18,14 @@
 
 button{
     justify-content: center;
+    float: center;
 }
 
-.rtSideMain {
-    background-color: blue;
+.rightSideMain {
+    background-image: linear-gradient(rgb(9, 9, 246),rgb(21, 21, 63));
+  }
+
+
+div .footer{
+    margin: 150px 150px 0px 0px;
 }
