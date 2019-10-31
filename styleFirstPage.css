@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: vertical;
+}
+
+.navbar-side{
+    height: 100%;
+    /*vertical-align: baseline;*/
+    background-color: rgb(13, 22, 51);
+    text-decoration: none;
+    list-style-type: none;
+    </*>overflow-y: auto;<*/>
+    width: 230px;
+    will-change: transform;
+    
+}
+
+button{
+    justify-content: center;
+}
+
+.rtSideMain {
+    background-color: blue;
+}

@@ -1,0 +1,20 @@
+.navbar {
+    background-color: black;
+}
+
+.nav {
+    color: white;
+}
+
+.navbar-nav {
+    justify-content: right;
+   
+}
+
+li:hover{
+    color: green;
+}
+
+#profileIcon {
+    size: 12px;
+}
