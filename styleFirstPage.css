@@ -3,8 +3,9 @@
     flex-direction: vertical;
 }
 
-.container sidebar{
+.sidebar{
     margin: 0px 150px 0px 0px;
+    border: 0px;
 }
 
 .navbar-side{

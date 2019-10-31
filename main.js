@@ -1,0 +1,2 @@
+var toggle = onclick(playPause)
+
